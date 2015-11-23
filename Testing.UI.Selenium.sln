@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing.UI.Selenium", "Testing.UI.Selenium\Testing.UI.Selenium.csproj", "{D8A1ACD2-201D-4569-8FD3-82932C1F459D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing.Ui.Selenium.TestRunner", "Testing.Ui.Selenium.TestRunner\Testing.Ui.Selenium.TestRunner.csproj", "{89DB086F-C14E-4946-A2FA-A8A11B210882}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "root", "root", "{7C15D0CC-CDF6-4DAE-BD60-C4BEE8BFEA18}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		appveyor.yml = appveyor.yml
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A1ACD2-201D-4569-8FD3-82932C1F459D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A1ACD2-201D-4569-8FD3-82932C1F459D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A1ACD2-201D-4569-8FD3-82932C1F459D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A1ACD2-201D-4569-8FD3-82932C1F459D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89DB086F-C14E-4946-A2FA-A8A11B210882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DB086F-C14E-4946-A2FA-A8A11B210882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DB086F-C14E-4946-A2FA-A8A11B210882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DB086F-C14E-4946-A2FA-A8A11B210882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

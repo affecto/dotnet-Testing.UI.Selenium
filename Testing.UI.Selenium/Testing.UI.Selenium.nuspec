@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>$author$</authors>
+    <description>$description$</description>
+    <projectUrl>https://github.com/affecto/dotnet-Testing.UI.Selenium</projectUrl>
+    <tags>affecto test tests testing ui browser selenium internet explorer mozilla firefox google chrome phantomjs phantom js</tags>
+    <releaseNotes>Moved to GitHub.</releaseNotes>
+  </metadata>
+</package>
