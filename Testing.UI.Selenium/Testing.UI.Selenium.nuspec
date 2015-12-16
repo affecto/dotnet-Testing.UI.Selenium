@@ -7,6 +7,6 @@
     <description>$description$</description>
     <projectUrl>https://github.com/affecto/dotnet-Testing.UI.Selenium</projectUrl>
     <tags>affecto test tests testing ui browser selenium internet explorer mozilla firefox google chrome phantomjs phantom js</tags>
-    <releaseNotes>Moved to GitHub.</releaseNotes>
+    <releaseNotes>Added support for Protractor web host driver.</releaseNotes>
   </metadata>
 </package>
