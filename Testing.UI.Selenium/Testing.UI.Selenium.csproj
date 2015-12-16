@@ -56,6 +56,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AngularWebHostDriver.cs" />
     <Compile Include="IisExpressExecutable.cs" />
     <Compile Include="IisExpressProcess.cs">
       <SubType>Component</SubType>
