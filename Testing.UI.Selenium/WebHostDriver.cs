@@ -17,7 +17,7 @@ namespace Affecto.Testing.UI.Selenium
         private const int MaximumWaitInSecondsWhenFindingPageContent = 3;
         private const int MaxWaitDefaultInMilliseconds = 2000;
 
-        public IWebDriver Value { get; private set; }
+        public IWebDriver Value { get; protected set; }
 
         public WebHostDriver(string browserName)
         {
